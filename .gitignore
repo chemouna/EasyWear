@@ -48,5 +48,5 @@ build/intermediates/gradle_project_sync_data.bin
 /.idea/workspace.xml
 /.idea/libraries
 /build
-/captures
+&/captures
 DoD.md
