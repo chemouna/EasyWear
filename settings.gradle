@@ -1,1 +1,1 @@
-include ':app', ':easywear-lib', ':wearsample'
+include ':app', ':easywear-lib'/*, ':wearsample' */
