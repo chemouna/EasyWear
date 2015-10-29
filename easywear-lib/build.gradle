@@ -25,6 +25,8 @@ dependencies {
 
   //TODO: use ext method for dependencies versions
   compile 'com.google.android.gms:play-services-wearable:8.1.0'
+  compile 'com.google.android.support:wearable:1.3.0'
+
   compile 'io.reactivex:rxjava:1.0.14'
 
 }
